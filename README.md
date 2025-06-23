@@ -2,20 +2,22 @@
 
 🚀 Software Architect & Senior Backend Engineer  
 💻 4.5+ years of building scalable backend systems with **Node.js**  
-🧠 Currently leading a team of 18 devs & interns as a **Tech Lead**  
+🧠 Currently leading a team of 18 devs & interns as a **Tech Lead**
 
 ---
 
 ## 🛠️ Tech Toolbox
-- ⚙️ **Languages:** JavaScript (Node.js), TypeScript, Python (basic)
-- ☁️ **Cloud & Infra:** AWS (S3, Lambda, EC2), VPS, Docker, DO
-- 🛢️ **Databases:** MongoDB, PostgreSQL, MySQL, Redis
-- 🧰 **Tools & Frameworks:** Express, Git, Nginx, PM2, Apache.
-- 🛡️ **Other:** REST APIs, Graphql, WebSockets, CI/CD, Clean Architecture
+
+- ⚙️ **Languages:** JavaScript (Node.js), TypeScript, Python (basic)  
+- ☁️ **Cloud & Infra:** AWS (S3, Lambda, EC2), VPS, Docker, DigitalOcean  
+- 🛢️ **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
+- 🧰 **Tools & Frameworks:** Express, Git, Nginx, PM2, Apache  
+- 🛡️ **Other:** REST APIs, GraphQL, WebSockets, CI/CD, Clean Architecture
 
 ---
 
 ## 📌 What I Do
+
 - 🏗️ Design and build **robust backend architectures**
 - 📦 Develop full-cycle apps — 6+ complex projects from scratch
 - 🔍 Focus on **code quality**, performance, and maintainability
