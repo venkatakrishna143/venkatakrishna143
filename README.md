@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Manepalli Venkata Krishna</h1>
-<h3 align="center">🚀 Software Architect | 🧠 Tech Lead | 💻 Backend Specialist</h3>
+<h3 align="center">🚀 Software Architect | 🧠 Tech Lead | 💻 Senior Backend Specialist(NodeJs)</h3>
 
 <p align="center">
   Passionate about clean architecture, building scalable systems, and leading dev teams to ship high-quality software.
